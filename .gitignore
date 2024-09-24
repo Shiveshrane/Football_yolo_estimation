@@ -2,3 +2,4 @@ yolov8n.pt/
 stubs\camera_movement.pkl/
 stubs\track_stubs.pkl/
 **/__pycache__/
+output_videos/
